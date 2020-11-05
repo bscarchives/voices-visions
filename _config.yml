@@ -18,19 +18,19 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder SA
+title: Voices and Visions Video Series
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Poetry videos for use in the classroom
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-SA is a template for creating digital collection exhibits using static web technology."
+description: "Digital copies of the Voices and Visions VHS series for classroom use only."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: poetry;20th Century;19th Century;poets;Elizabeth Bishop;Hart Crane;Emily Dickinson;T.S. Eliot;Robert Frost;Langston Hughes;Robert Lowell;Maryanne Moore;Sylvia Plath;Ezra Pound;Wallace Stevens;Walt Whitman;William Carlos Williams
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Birmingham-Southern College -- C.A. Rush Learning Center/N. E. Miles Library
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
+organization-name: "Archives and Digital Initiatives, Birmingham-Southern College Library"
+organization-link: https://library.bsc.edu
 organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
